@@ -1,9 +1,20 @@
 <img src="https://github.com/BrunoSobralDEV/imhere/blob/main/Screenshot_index.png" height="400px" align="right" alt="Imagem-tela-celular">
-<h1>:pushpin: I'm here</h1>
+<h1>:pushpin: SuporteWeb - Mobile</h1>
 
-- Presence list made in react native.
+<h2>Features</h2>
 
-<h1 id="techs">:computer: Techs</h1>
+- Listar de clientes bloqueados;
+- Visualizar Clientes cadastrados;
+- Bloquear clientes;
+
+<h2 id="techs">:computer: Techs</h2>
 
 - [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Expo](https://docs.expo.dev/)
+- [Firebase](https://firebase.google.com/)
+- [Firestore](https://firebase.google.com/)
+- [styled-components](https://styled-components.com/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Native-base](https://nativebase.io/)
+- [PhosphorIcons](https://phosphoricons.com/)
