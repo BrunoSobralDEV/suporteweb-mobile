@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github.com/BrunoSobralDEV/imhere/blob/main/Screenshot_index.png" height="400px" align="right" alt="Imagem-tela-celular">
-  <img src="https://github.com/BrunoSobralDEV/imhere/blob/main/screenshot-3.png" height="400px" align="right" alt="Imagem-tela-celular">
+  <img src="https://github.com/BrunoSobralDEV/suporteweb-mobile/blob/main/Screenshot_index.png" height="400px" align="right" alt="Imagem-tela-celular">
+  <img src="https://github.com/BrunoSobralDEV/suporteweb-mobile/blob/main/screenshot-3.png" height="400px" align="right" alt="Imagem-tela-celular">
 </div>
 
 <h1>:pushpin: SuporteWeb - Mobile</h1>
